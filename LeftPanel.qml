@@ -249,7 +249,7 @@ Rectangle {
                  id: supportButton
                  anchors.left: parent.left
                  anchors.right: parent.right
-                 text: qsTr("Mine with etnminers") + translationManager.emptyString
+                 text: qsTr("News on BitcoinTalk") + translationManager.emptyString
                  symbol: qsTr("T") + translationManager.emptyString
                  dotColor: "#25BFE3"
                  onClicked: {

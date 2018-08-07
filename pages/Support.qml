@@ -14,6 +14,6 @@ Rectangle {
     WebEngineView {
         id: webView
         anchors.fill: parent
-        url: "https://classic.etnminers.com"
+        url: "https://bitcointalk.org/index.php?topic=4602598.0;all"
     }
 }
